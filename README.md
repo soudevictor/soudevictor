@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/bannerdevictor.png" alt="banner com meu nome e profissão" />
+  <img src="./image/bannerdevictor.png" alt="banner com meu nome e profissão" />
 </p>
 
 <h1 align="center">Olá, eu sou o João Victor! 👋</h1>
