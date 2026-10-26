@@ -1,37 +1,161 @@
-<p align="center">
-  <img src="./image/bannerdevictor.png" alt="banner com meu nome e profissão" />
-</p>
-
 <div align="center">
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0ACB4F&center=true&vCenter=true&lines=Desenvolvedor+Front-End" alt="Typing SVG" />
-  </p>
-  
-  <a href="https://www.linkedin.com/in/soudevictor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=likedin&logoColor=white" alt="LinkedIn" /></a> 
-  <a href="https://portfoliojoaocarvalho.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
-  <a href="mailto:trabalho.joaovictor2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+
+  <img src="./assets/hero.webp" alt="João Victor (Devictor) — Desenvolvedor Front-End em São Paulo, Brasil" width="100%" />
+
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=00ACB4&center=true&vCenter=true&repeat=false&width=600&height=45&lines=Do+design+ao+deploy%2C+com+tipos+e+testes;Aten%C3%A7%C3%A3o+aos+detalhes+em+cada+componente;Performance+e+acessibilidade+desde+o+in%C3%ADcio;Aberto+a+oportunidades+Front-End+%F0%9F%9A%80" alt="Do design ao deploy, com tipos e testes. Atenção aos detalhes em cada componente. Performance e acessibilidade desde o início. Aberto a oportunidades Front-End." />
+
+  <br/>
+
+  <a href="https://www.linkedin.com/in/soudevictor/">
+    <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Front--End-00808A?style=for-the-badge&labelColor=0B0F10" alt="Aberto a oportunidades Front-End" />
+  </a>
+  <a href="https://www.linkedin.com/in/soudevictor/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://soudevictor.vercel.app/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="mailto:trabalho.joaovictor2004@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" />
+  </a>
+  <a href="https://github.com/soudevictor">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
 </div>
 
----
+## 👋 Sobre mim
 
-### 💻 Sobre Mim
+```ts
+const dev = {
+  nome: "João Victor",
+  handle: "@soudevictor",
+  cargo: "Desenvolvedor Front-End",
+  localizacao: "São Paulo, Brasil 🇧🇷",
+  formacao: "Análise e Desenvolvimento de Sistemas (UNIP)",
 
-Desenvolvedor Front-End formado em **Análise e Desenvolvimento de Sistemas (UNIP)**, especializado em aplicações **B2B**, arquitetura baseada em componentes e otimização de performance visual.
+  foco: [
+    "Angular (Signals, SignalStore, CDK)",
+    "Next.js (App Router, Server Actions)",
+    "TypeScript & Design Systems",
+    "Core Web Vitals e WCAG 2.2 AA",
+  ],
 
-- 🚀 **Especialidades:** Construção de sistemas escaláveis com **TypeScript, Angular, React.js, Next.js, Tailwind CSS e Sass**.
-- 🛠️ **Foco em Qualidade:** Experiência com gerenciamento de estado, consumo de APIs RESTful e acessibilidade web (**WCAG 2.2 / ARIA**).
-- ⚙️ **Processos:** Atuação em squads ágeis (Scrum), suporte direto a times de QA e esteiras de integração contínua (GitLab CI/GitHub Actions).
+  aprendendo: [
+    "Aprofundando Testes E2E com Playwright & MSW",
+    "Motion design (GSAP, Framer Motion)",
+    "Node.js para ir além do front-end",
+  ],
 
----
+  filosofia:
+    "Código bom é aquele que o próximo dev entende e o usuário nem percebe.",
+  openToWork: true,
 
-### 🛠️ Stack Técnica & Ferramentas
+  hobbies: [
+    "🎮 jogos competitivos",
+    "📽️ terror / horror",
+    "🏀 basquete",
+    "🎸 rock dos anos 70",
+  ],
+} as const;
+```
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens & Core** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white) |
-| **Frameworks & Libs** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
-| **Estilização & UI** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| **Testes & Qualidade** | ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white) |
-| **DevOps & Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+## 🧰 Tech Stack
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=00ACB4&reversal=false&section=footer)
+<div align="center">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nextjs,tailwind,sass,html,css&perline=9" alt="TypeScript, JavaScript, Angular, React, Next.js, Tailwind CSS, Sass, HTML e CSS" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,vercel,figma,vite,vitest,jest&perline=9" alt="Git, GitHub, GitLab, GitHub Actions, Vercel, Figma, Vite, Vitest e Jest" /><img src="./assets/playwright.svg" height="48" alt="Playwright" />
+</p>
+
+
+</div>
+
+## 🚀 Projetos em destaque
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/soudevictor/axiom-erp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=soudevictor&repo=axiom-erp&theme=tokyonight&hide_border=true&bg_color=0B0F10&title_color=00ACB4&icon_color=00ACB4&text_color=C9D1D9&description_lines_count=3" alt="Axiom ERP — SaaS B2B de supply chain em Angular" />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/soudevictor/talent-metrics-landing">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=soudevictor&repo=talent-metrics-landing&theme=tokyonight&hide_border=true&bg_color=0B0F10&title_color=00ACB4&icon_color=00ACB4&text_color=C9D1D9&description_lines_count=3" alt="Talent Metrics — plataforma B2B com IA para triagem de currículos" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/soudevictor/kurio-jungle-gaming">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=soudevictor&repo=kurio-jungle-gaming&theme=tokyonight&hide_border=true&bg_color=0B0F10&title_color=00ACB4&icon_color=00ACB4&text_color=C9D1D9&description_lines_count=3" alt="Kurio Jungle Gaming — marketplace de NFTs com React" />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/soudevictor/devictor-portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=soudevictor&repo=devictor-portfolio&theme=tokyonight&hide_border=true&bg_color=0B0F10&title_color=00ACB4&icon_color=00ACB4&text_color=C9D1D9&description_lines_count=3" alt="Devictor Portfolio — portfólio em Next.js e Angular" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=soudevictor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F10&title_color=00ACB4&icon_color=00ACB4&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github&hide=contribs&custom_title=Estat%C3%ADsticas" alt="Estatísticas do GitHub de João Victor" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soudevictor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F10&title_color=00ACB4&text_color=C9D1D9&langs_count=8&exclude_repo=unip-poo-c-1sem2024,unip-csharp-1sem2025,unip-csharp-2sem2025,unip-java-2sem2025,unip-windows-server-1sem2025,projeto-android,projeto-cordel,projeto-login,projeto-site,projeto-social,bot-discord-js&custom_title=Linguagens" alt="Linguagens mais usadas nos repositórios de João Victor" />
+
+</div>
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soudevictor/soudevictor/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soudevictor/soudevictor/output/github-snake.svg" />
+  <img alt="Cobrinha percorrendo o gráfico de contribuições de João Victor" src="https://raw.githubusercontent.com/soudevictor/soudevictor/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+## 🤝 Vamos conversar?
+
+> ⚡ Resposta mais rápida por e-mail ou LinkedIn.
+
+<div align="center">
+
+  <a href="mailto:trabalho.joaovictor2004@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" />
+  </a>
+  <a href="https://www.linkedin.com/in/soudevictor/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://soudevictor.vercel.app/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+_"Primeiro faça funcionar, depois faça certo, depois faça rápido — e **sempre faça acessível**."_
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ACB4&height=140&section=footer&animation=fadeIn" width="100%" alt="" />
+
+</div>
