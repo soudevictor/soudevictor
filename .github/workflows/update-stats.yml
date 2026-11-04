@@ -1,0 +1,46 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # a cada 6 horas
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/update-stats.yml'
+      - 'scripts/fetch-stats.mjs'
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch stats SVGs
+        env:
+          GITHUB_LOGIN: soudevictor
+          EXCLUDE_REPOS: unip-poo-c-1sem2024,unip-csharp-1sem2025,unip-csharp-2sem2025,unip-java-2sem2025,unip-windows-server-1sem2025,projeto-android,projeto-cordel,projeto-login,projeto-site,projeto-social,bot-discord-js
+        run: node scripts/fetch-stats.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet assets/stats.svg assets/langs.svg; then
+            git add assets/stats.svg assets/langs.svg
+            git commit -m "chore: update GitHub stats cards [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi

@@ -4,7 +4,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=00ACB4&center=true&vCenter=true&repeat=false&width=600&height=45&lines=Do+design+ao+deploy%2C+com+tipos+e+testes;Aten%C3%A7%C3%A3o+aos+detalhes+em+cada+componente;Performance+e+acessibilidade+desde+o+in%C3%ADcio;Aberto+a+oportunidades+Front-End+%F0%9F%9A%80" alt="Do design ao deploy, com tipos e testes. Atenção aos detalhes em cada componente. Performance e acessibilidade desde o início. Aberto a oportunidades Front-End." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00ACB4&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Do+design+ao+deploy%2C+com+tipos+e+testes;Aten%C3%A7%C3%A3o+aos+detalhes+em+cada+componente;Performance+e+acessibilidade+desde+o+in%C3%ADcio;Aberto+a+oportunidades+Front-End+%F0%9F%9A%80" alt="Do design ao deploy, com tipos e testes. Atenção aos detalhes em cada componente. Performance e acessibilidade desde o início. Aberto a oportunidades Front-End." />
 
   <br/>
 
@@ -76,47 +76,21 @@ const dev = {
 
 </div>
 
-## 🚀 Projetos em destaque
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/soudevictor/axiom-erp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=soudevictor&repo=axiom-erp&theme=tokyonight&hide_border=true&bg_color=0B0F10&title_color=00ACB4&icon_color=00ACB4&text_color=C9D1D9&description_lines_count=3" alt="Axiom ERP — SaaS B2B de supply chain em Angular" />
-      </a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/soudevictor/talent-metrics-landing">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=soudevictor&repo=talent-metrics-landing&theme=tokyonight&hide_border=true&bg_color=0B0F10&title_color=00ACB4&icon_color=00ACB4&text_color=C9D1D9&description_lines_count=3" alt="Talent Metrics — plataforma B2B com IA para triagem de currículos" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/soudevictor/kurio-jungle-gaming">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=soudevictor&repo=kurio-jungle-gaming&theme=tokyonight&hide_border=true&bg_color=0B0F10&title_color=00ACB4&icon_color=00ACB4&text_color=C9D1D9&description_lines_count=3" alt="Kurio Jungle Gaming — marketplace de NFTs com React" />
-      </a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/soudevictor/devictor-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=soudevictor&repo=devictor-portfolio&theme=tokyonight&hide_border=true&bg_color=0B0F10&title_color=00ACB4&icon_color=00ACB4&text_color=C9D1D9&description_lines_count=3" alt="Devictor Portfolio — portfólio em Next.js e Angular" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 ## 📊 Estatísticas
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=soudevictor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F10&title_color=00ACB4&icon_color=00ACB4&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github&hide=contribs&custom_title=Estat%C3%ADsticas" alt="Estatísticas do GitHub de João Victor" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soudevictor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F10&title_color=00ACB4&text_color=C9D1D9&langs_count=8&exclude_repo=unip-poo-c-1sem2024,unip-csharp-1sem2025,unip-csharp-2sem2025,unip-java-2sem2025,unip-windows-server-1sem2025,projeto-android,projeto-cordel,projeto-login,projeto-site,projeto-social,bot-discord-js&custom_title=Linguagens" alt="Linguagens mais usadas nos repositórios de João Victor" />
+<img height="160" src="./assets/stats.svg" alt="Estatísticas do GitHub de João Victor" />
+<img height="160" src="./assets/langs.svg" alt="Linguagens mais usadas nos repositórios de João Victor" />
 
 </div>
+
+<!-- 
+  Cards salvos como SVGs locais (assets/stats.svg e assets/langs.svg).
+  Atualizados automaticamente pela GitHub Action (.github/workflows/update-stats.yml)
+  a cada 6h. Como os arquivos ficam versionados no repositório, os cards SEMPRE
+  aparecem — mesmo que o serviço de geração esteja indisponível.
+-->
 
 ## 🐍 Contribuições
 
@@ -131,8 +105,6 @@ const dev = {
 </div>
 
 ## 🤝 Vamos conversar?
-
-> ⚡ Resposta mais rápida por e-mail ou LinkedIn.
 
 <div align="center">
 
@@ -152,7 +124,7 @@ const dev = {
 
 <div align="center">
 
-_"Primeiro faça funcionar, depois faça certo, depois faça rápido — e **sempre faça acessível**."_
+> _"Primeiro faça funcionar, depois faça certo, depois faça rápido — e **sempre faça acessível**."_
 
 <br/>
 
